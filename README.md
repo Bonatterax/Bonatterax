@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bonatterax
-- 👀 I’m interested in Mobile Development
+- 👀 I’m interested in Mobile Development - React Native
 - 🌱 I’m currently learning React Native, Flutter, Android(Java), Kotlin
 - 💞️ I’m looking to collaborate on a Mobile Development team
 - 📫 How to reach me
